@@ -12,13 +12,14 @@
  - 他もいろいろあるはず・・
 ---
 ## 転移学習
-- すでに学習済みのモデルを別領域で使う方法。  
-- 学習データとか用意しなくてよくて手軽。  
-
+- すでに学習済みのモデルを別領域で使う方法
+- 学習データとか用意しなくてよくて手軽
+[aa](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kumonworld/20171219/20171219155957.png)
 ---
 ## 実装
 - chainer(python)
-- 主要なモデルが用意されてる。  (VGG16, GoogLeNET, ResNETなど)  
+- 主要なモデルが用意されてる。  
+(VGG16, GoogLeNET, ResNETなど)  
 
 ---
 ## 結果
